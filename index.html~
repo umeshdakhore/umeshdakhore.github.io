@@ -54,7 +54,7 @@
       </ul>
     </div>
     <div class="banner-line">
-      <h2><span>We inviting you</span> and your family on <span>6 June 2015</span></h2>
+      <h2><span>We inviting you</span> and your family on <span>20 December 2014</span></h2>
       <br>
     </div>
     <div class="top_arrow"><a href="#about_us"><i class="fa fa-chevron-down"></i></a></div>
@@ -67,14 +67,14 @@
         <div class="col-md-12 text-center ">
           <h2 class="animated" data-animation="fadeIn" data-animation-delay="100">Groom <span>and</span> Bride</h2>
           <div class="devider_main"><img src="img/devider-gray.jpg" alt=""></div>
-          <p class="big-text animated" data-animation="fadeIn" data-animation-delay="100">Two hearts... Two lives... One dream... Forever...</p>
+          <p class="big-text animated" data-animation="fadeIn" data-animation-delay="100">Consectetur adipisicing elit, sed do eiusmod tempor incididunt eiusmod tempor incididunt ut labore et dolore magna Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
         </div>
       </div>
       <div class="row latest_sermons">
         <div class="col-md-6 text-center groom">
           <div class="img"><img src="img/groom.jpg" class="animated" data-animation="bounceIn" data-animation-delay="100" alt=""></div>
           <h3 class="animated" data-animation="fadeIn" data-animation-delay="100">Umesh</h3>
-          <p class="animated" data-animation="fadeIn" data-animation-delay="100"></p>
+          <p class="animated" data-animation="fadeIn" data-animation-delay="100">Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et congolium sic ad nauseum.</p>
           <ul class="social animated" data-animation="fadeIn" data-animation-delay="100">
             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -83,11 +83,11 @@
             <li><a href="#"><i class="fa fa-envelope-o"></i></a></li>
           </ul>
           <div class="devider_main"><img src="img/devider-gray.jpg" alt=""></div>
-         </div>
+          <a class="small_btn animated" data-animation="fadeIn" data-animation-delay="100" href="#our_family">About my family</a></div>
         <div class="col-md-6 text-center bride">
           <div class="img"><img src="img/bride.jpg" class="animated" data-animation="bounceIn" data-animation-delay="100" alt=""></div>
           <h3 class="animated" data-animation="fadeIn" data-animation-delay="100">Jaya</h3>
-          <p class="animated" data-animation="fadeIn" data-animation-delay="100"></p>
+          <p class="animated" data-animation="fadeIn" data-animation-delay="100">Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla sic ad nauseum.</p>
           <ul class="social animated" data-animation="fadeIn" data-animation-delay="100">
             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -96,7 +96,7 @@
             <li><a href="#"><i class="fa fa-envelope-o"></i></a></li>
           </ul>
           <div class="devider_main"><img src="img/devider-gray.jpg" alt=""></div>
-          </div>
+          <a class="small_btn animated" data-animation="fadeIn" data-animation-delay="100" href="#our_family">About my family</a></div>
       </div>
     </div>
   </article>
@@ -108,7 +108,8 @@
           <div class="row">
             <div class="col-md-4 text-center animated" data-animation="fadeInLeft" data-animation-delay="100"><img src="img/flower.png" class="image_resized" alt=""></div>
             <div class="col-md-8 text-left animated" data-animation="fadeInRight" data-animation-delay="100">
-              <p>We are about to step into a new world, a world full of promises, trust and faith and we would be more than happy to share this most celebrated event of our life with your love and blessings. On behalf of Our family, Jaya and I would like to cordially invite you on the occasion of our Wedding on Saturday, June 6th, 2015. Kindly consider this as our personal invitation and grace the occasions with your presence.</p>
+              <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt eiusmod tempor incididunt ut labore et dolore magna consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Consectetur adipisicing elit, sed do eiusmod tempor incididunt eiusmod tempor incididunt ut labore et dolore magna consectetur adipisicing elit.</p>
+              <p>Incididunt eiusmod tempor incididunt ut labore et dolore magna consectetur adipisicing, sed do eiusmod tempor incididunt ut labore et dolore magna. Consectetur elit, sed do eiusmod tempor indor eiusmod tempor incididun.</p>
               <div class="thanks_cont slide_up">
                 <p><span>Sincerely,</span><br>
                   Umesh <span>and</span> Jaya</p>
@@ -127,7 +128,7 @@
         <div class="col-md-12 text-center">
           <h2 class="animated" data-animation="fadeIn" data-animation-delay="100">Our Gallery</h2>
           <div class="devider_main"><img src="img/devider-gray.jpg" alt=""></div>
-          <!-- <p class="big-text animated" data-animation="fadeIn" data-animation-delay="100">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore pariatur dolore eu fugiat nulla pariatur.</p> -->
+          <p class="big-text animated" data-animation="fadeIn" data-animation-delay="100">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore pariatur dolore eu fugiat nulla pariatur.</p>
         </div>
       </div>
     </div>
@@ -145,52 +146,23 @@
     </div>
   </article>
   
- <article class="contact_address_cont" id="contact_us">
+  <article class="contact_address_cont" id="contact_us">
     <div class="container">
-      <div class="row">
-        <div class="col-md-6 text-center ">
-          <h2 class="animated" data-animation="fadeIn" data-animation-delay="100">Wedding Venue</h2>
-          <h4 class="animated" data-animation="fadeIn" data-animation-delay="100">(Jun 6th 2015 09:44 AM)</h4>
-          <div class="devider_main"><img src="img/devider-gray.jpg" alt=""></div>
-          <p class="big-text animated" data-animation="fadeIn" data-animation-delay="100">'Manohar Mangalya'</p>
-          <p class="big-text animated" data-animation="fadeIn" data-animation-delay="100">
-            Old Bypass Road,
-          </p>
-          <p class="big-text animated" data-animation="fadeIn" data-animation-delay="100">
-            Amravati
-          </p>
-        </div>
-        <div class="col-md-6 text-center ">
-          <h2 class="animated" data-animation="fadeIn" data-animation-delay="100">Reception Venue</h2>
-          <h4 class="animated" data-animation="fadeIn" data-animation-delay="100">(Jun 7th 2015 6:00PM)</h4>
-          <div class="devider_main"><img src="img/devider-gray.jpg" alt=""></div>
-          <p class="big-text animated" data-animation="fadeIn" data-animation-delay="100">'Kamal Plazza'</p>
-          <p class="big-text animated" data-animation="fadeIn" data-animation-delay="100">
-            Old Bypass Road
-          </p>
-          <p class="big-text animated" data-animation="fadeIn" data-animation-delay="100">
-            Amravati
-          </p>
-        </div>
-      </div>
-      <div class="row">
-        
-      </div>
       <div class="row contact_address">
         <div class="col-md-4 text-center address animated" data-animation="flipInY" data-animation-delay="500">
           <p><i class="fa fa-map-marker"></i><br>
             <b>Home</b><br>
-            Amravati</p>
+            192/24, Lacords, Melbourne.</p>
         </div>
         <div class="col-md-4 text-center address animated" data-animation="flipInY" data-animation-delay="600">
           <p><i class="fa fa-envelope"></i><br>
             <b>Email</b><br>
-            umeshdakhore@gmail.com</p>
+            support@domain.com</p>
         </div>
         <div class="col-md-4 text-center address animated" data-animation="flipInY" data-animation-delay="700">
           <p><i class="fa fa-phone"></i><br>
             <b>Phone</b><br>
-            +91 9766 577 250</p>
+            +44 (000) 000 000</p>
         </div>
       </div>
     </div>
